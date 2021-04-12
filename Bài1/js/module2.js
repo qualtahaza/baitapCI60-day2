@@ -31,7 +31,7 @@ export class MemeCollection {
 
 
             } else {
-                return null;
+                continue;
             }
         }
     }
